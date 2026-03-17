@@ -8,6 +8,4 @@ class Two extends StatelessWidget {
       ),
         );
   }
-}
-
-    
+} 
