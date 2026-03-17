@@ -64,7 +64,7 @@ class _HomepageState extends State<Homepage> {
         },
       ),
 
-      body: Center(),
+      body: pages[_currentIndex],
     );
   }
 }
